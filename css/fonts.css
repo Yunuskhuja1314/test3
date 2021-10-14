@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'roboto-bl';
+    src: url('../fonts/Roboto-Black.ttf');
+}
+@font-face {
+    font-family: 'roboto-b';
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+@font-face {
+    font-family: 'roboto-l';
+    src: url('../fonts/Roboto-Light.ttf');
+}
+@font-face {
+    font-family: 'roboto-m';
+    src: url('../fonts/Roboto-Medium.ttf');
+}
+@font-face {
+    font-family: 'roboto-r';
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+@font-face {
+    font-family: 'roboto-t';
+    src: url('../fonts/Roboto-Thin.ttf');
+}
+@font-face {
+    font-family: 'opensans';
+    src: url('../fonts/OpenSans-Bold.ttf');
+}
+@font-face {
+    font-family: 'myriad';
+    src: url('../fonts/MyriadPro-Regular.ttf');
+}
